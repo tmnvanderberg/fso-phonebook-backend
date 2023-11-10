@@ -1,0 +1,22 @@
+{
+  "name": "fso-phonebook-backend",
+  "version": "0.0.1",
+  "description": "fullstack open phonebook backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tmnvanderberg/fso-phonebook-backend.git"
+  },
+  "author": "Timon van der Berg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmnvanderberg/fso-phonebook-backend/issues"
+  },
+  "homepage": "https://github.com/tmnvanderberg/fso-phonebook-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
